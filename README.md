@@ -10,9 +10,9 @@ I'm a *Computer Engineering student* passionate about coding, software developme
 - Learning more about *software architecture and best coding practices*  
 
 ## 📫 Contact Me
-[![LinkedIn](http://linkedin.com/in/ayşegül-delialioğlu)
-[![GitHub](https://github.com/Aysegul-hub)  
-[![Email](ayseguldelialioglu20@gmail.com)
+[[LinkedIn](http://linkedin.com/in/ayşegül-delialioğlu)
+[[GitHub](https://github.com/Aysegul-hub)  
+[[Email](ayseguldelialioglu20@gmail.com)
 
 ---
 
