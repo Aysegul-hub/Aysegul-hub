@@ -1,16 +1,20 @@
-## Hi there 👋
 
-<!--
-**Aysegul-hub/Aysegul-hub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Hi, I'm Ayşegül Delialioğlu
 
-Here are some ideas to get you started:
+## 🌟 Who I Am ?
+I'm a *Computer Engineering student* passionate about coding, software development, and exploring new technologies. I enjoy solving challenging problems and building projects that can make a difference.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🎯 What Are My Interests ?
+- Improving skills in *Java, Python, and Swift*  
+- Exploring *mobile and web development*  
+- Learning more about *software architecture and best coding practices*  
+
+## 📫 Contact Me
+[![LinkedIn](http://linkedin.com/in/ayşegül-delialioğlu)
+[![GitHub](https://github.com/Aysegul-hub)  
+[![Email](ayseguldelialioglu20@gmail.com)
+
+---
+
+> “At first, it may seem difficult, but everything is difficult at first.” – Miyamato Musashi ( Japanese Swordsman
+> 
