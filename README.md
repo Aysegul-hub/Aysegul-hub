@@ -16,5 +16,5 @@ I'm a *Computer Engineering student* passionate about coding, software developme
 
 ---
 
-> “At first, it may seem difficult, but everything is difficult at first.” – Miyamato Musashi ( Japanese Swordsman
+> “At first, it may seem difficult, but everything is difficult at first.” – Miyamato Musashi ( Japanese Swordsman )
 > 
