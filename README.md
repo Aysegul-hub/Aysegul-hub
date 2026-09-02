@@ -88,14 +88,13 @@ Modern responsive gallery with:
 
 **Java**
 
-A Java-based music player project developed
-to practice application logic,
-object-oriented programming and user interaction.
+A Java-based music player project developed to practice
+application logic, object-oriented programming and user interaction.
 
 <br>
 
-<a href="https://github.com/Aysegul-hub/MusicPlayer">
-<img src="https://img.shields.io/badge/VIEW%20PROJECT-GitHub-181717?style=for-the-badge&logo=github"/>
+<a href="https://github.com/Aysegul-hub/MucisPlayer">
+<img src="https://img.shields.io/badge/VIEW%20PROJECT-GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </td>
@@ -130,23 +129,23 @@ application structure.
 
 <td width="50%" align="center">
 
-### 📱 Android & Kotlin
+### 🎵 Music Player
 
-<div align="center">
+<a href="https://github.com/Aysegul-hub/MucisPlayer">
 
-<img src="https://skillicons.dev/icons?i=androidstudio,kotlin" width="120"/>
+<img src="https://opengraph.githubassets.com/1/Aysegul-hub/MucisPlayer" width="100%"/>
 
-</div>
+</a>
 
-**Android Studio • Kotlin**
+**Java**
 
-Exploring Android development,
-Kotlin and modern application interfaces.
+A Java-based music player project developed to practice
+application logic, object-oriented programming and user interaction.
 
 <br>
 
-<a href="https://github.com/Aysegul-hub">
-<img src="https://img.shields.io/badge/EXPLORE-GitHub-181717?style=for-the-badge&logo=github"/>
+<a href="https://github.com/Aysegul-hub/MucisPlayer">
+<img src="https://img.shields.io/badge/VIEW%20PROJECT-GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </td>
