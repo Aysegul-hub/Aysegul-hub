@@ -204,7 +204,23 @@ hands-on projects and experimentation.
 
 <a href="https://github.com/Aysegul-hub">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Aysegul-hub&theme=github-compact&hide_border=true&area=true" width="95%"/>
+<img
+  src="https://github-readme-stats.vercel.app/api?username=Aysegul-hub&show_icons=true&hide_border=true&theme=transparent"
+  width="90%"
+  alt="Ayşegül's GitHub Stats"
+/>
+
+</a>
+
+<br><br>
+
+<a href="https://github.com/Aysegul-hub">
+
+<img
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aysegul-hub&layout=compact&hide_border=true&theme=transparent"
+  width="50%"
+  alt="Top Languages"
+/>
 
 </a>
 
