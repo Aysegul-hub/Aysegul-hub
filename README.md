@@ -129,23 +129,23 @@ application structure.
 
 <td width="50%" align="center">
 
-### 🎵 Music Player
+### 📱 Android & Kotlin
 
-<a href="https://github.com/Aysegul-hub/MucisPlayer">
+<a href="https://github.com/Aysegul-hub">
 
-<img src="https://opengraph.githubassets.com/1/Aysegul-hub/MucisPlayer" width="100%"/>
+<img src="https://skillicons.dev/icons?i=androidstudio,kotlin" width="150"/>
 
 </a>
 
-**Java**
+**Android Studio • Kotlin**
 
-A Java-based music player project developed to practice
-application logic, object-oriented programming and user interaction.
+Exploring Android development, Kotlin
+and modern application interfaces.
 
 <br>
 
-<a href="https://github.com/Aysegul-hub/MucisPlayer">
-<img src="https://img.shields.io/badge/VIEW%20PROJECT-GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<a href="https://github.com/Aysegul-hub?tab=repositories">
+<img src="https://img.shields.io/badge/EXPLORE%20PROJECTS-GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </td>
