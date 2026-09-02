@@ -198,35 +198,6 @@ hands-on projects and experimentation.
 
 ---
 
-## 📊 GitHub Activity
-
-<div align="center">
-
-<a href="https://github.com/Aysegul-hub">
-
-<img
-  src="https://github-readme-stats.vercel.app/api?username=Aysegul-hub&show_icons=true&hide_border=true&theme=transparent"
-  width="90%"
-  alt="Ayşegül's GitHub Stats"
-/>
-
-</a>
-
-<br><br>
-
-<a href="https://github.com/Aysegul-hub">
-
-<img
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aysegul-hub&layout=compact&hide_border=true&theme=transparent"
-  width="50%"
-  alt="Top Languages"
-/>
-
-</a>
-
-</div>
-
----
 
 ## 🎯 My Approach
 
