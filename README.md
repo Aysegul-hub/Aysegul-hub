@@ -80,9 +80,9 @@ Modern responsive gallery with:
 
 ### 🎵 Music Player
 
-<a href="https://github.com/Aysegul-hub/MusicPlayer">
+<a href="https://github.com/Aysegul-hub/MucisPlayer">
 
-<img src="https://opengraph.githubassets.com/1/Aysegul-hub/MusicPlayer" width="100%"/>
+<img src="https://opengraph.githubassets.com/1/Aysegul-hub/MucisPlayer" width="100%"/>
 
 </a>
 
@@ -132,11 +132,11 @@ application structure.
 
 ### 📱 Android & Kotlin
 
-<a href="https://github.com/Aysegul-hub">
+<div align="center">
 
-<img src="https://opengraph.githubassets.com/1/Aysegul-hub" width="100%"/>
+<img src="https://skillicons.dev/icons?i=androidstudio,kotlin" width="120"/>
 
-</a>
+</div>
 
 **Android Studio • Kotlin**
 
@@ -202,9 +202,11 @@ hands-on projects and experimentation.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Aysegul-hub&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" height="170"/>
+<a href="https://github.com/Aysegul-hub">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aysegul-hub&layout=compact&theme=transparent&hide_border=true" height="170"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Aysegul-hub&theme=github-compact&hide_border=true&area=true" width="95%"/>
+
+</a>
 
 </div>
 
