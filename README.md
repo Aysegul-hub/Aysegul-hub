@@ -136,16 +136,6 @@ Through different projects, I've practiced:
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Aysegul-hub&show_icons=true&theme=transparent&hide_border=true" height="170">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aysegul-hub&layout=compact&theme=transparent&hide_border=true" height="170">
-
-</div>
-
 ---
 
 ## 🎯 My Goal
