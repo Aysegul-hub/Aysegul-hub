@@ -1,17 +1,28 @@
 <div align="center">
 
-# 👋 Hi, I'm Ayşegül Delialioğlu
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=Hi,%20I'm%20Ayşegül!&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%"/>
 
-### 💻 Computer Engineering Student | Software Developer
+# 👩🏻‍💻 Ayşegül Delialioğlu
 
-I love building things, learning new technologies,
-and turning ideas into working applications.
+### Computer Engineering Student • Software Developer
+
+<p>
+  <em>Building projects, learning technologies & turning ideas into code.</em>
+</p>
 
 <br>
 
-[![GitHub](https://img.shields.io/badge/GitHub-Aysegul--hub-181717?style=for-the-badge&logo=github)](https://github.com/Aysegul-hub)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ayşegül%20Delialioğlu-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ay%C5%9Feg%C3%BCl-delialio%C4%9Flu/)
-[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ayseguldelialioglu20@gmail.com)
+<a href="https://github.com/Aysegul-hub">
+  <img src="https://img.shields.io/badge/GitHub-Aysegul--hub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/ay%C5%9Feg%C3%BCl-delialio%C4%9Flu/">
+  <img src="https://img.shields.io/badge/LinkedIn-Ayşegül%20Delialioğlu-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:ayseguldelialioglu20@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
 </div>
 
@@ -19,76 +30,131 @@ and turning ideas into working applications.
 
 ## 👩🏻‍💻 About Me
 
-I'm a **Computer Engineering student** passionate about software development,
-problem solving and exploring new technologies.
+I'm a **Computer Engineering student** interested in software development,
+application development and exploring new technologies.
 
-I enjoy learning by building real projects and improving my skills
-through hands-on experience.
+I enjoy learning by building projects and solving problems through practice.
 
-Currently, I'm developing my skills in **Java, Python, Swift,
-Web Development, Android Development and Kotlin**.
+I'm currently developing my skills in **Java, Python, Kotlin, Swift,
+HTML, CSS and JavaScript**, while exploring both web, mobile and desktop
+application development.
 
 ---
 
-## 🚀 What I've Built
+## 🚀 Featured Projects
+
+<div align="center">
+
+<table>
+<tr>
+
+<td width="50%" align="center">
 
 ### 🖼️ Gallery Web
 
-A modern and responsive gallery application built with
-**HTML, CSS and JavaScript**.
+<a href="https://github.com/Aysegul-hub/gallery-web">
 
-**Features:**
+<img src="https://opengraph.githubassets.com/1/Aysegul-hub/gallery-web" width="100%"/>
 
-- 🔍 Search functionality
-- ❤️ Favorite system
-- 💾 Local Storage
-- 🖼️ Full-screen image preview
-- 🎥 Video support
-- 📱 Responsive design
-- 🧊 Glassmorphism UI
-- 🎨 Modern gradient design
+</a>
 
-🌐 **[Live Demo →](https://aysegul-hub.github.io/gallery-web/)**
+**HTML • CSS • JavaScript**
 
----
+Modern responsive gallery with:
+
+🔍 Search  
+❤️ Favorites  
+💾 Local Storage  
+🎥 Video support  
+📱 Responsive UI
+
+<br>
+
+<a href="https://aysegul-hub.github.io/gallery-web/">
+<img src="https://img.shields.io/badge/🌐%20LIVE%20DEMO-Visit%20Website-111111?style=for-the-badge"/>
+</a>
+
+</td>
+
+<td width="50%" align="center">
 
 ### 🎵 Music Player
 
-A **Java-based music player application** developed to practice
-object-oriented programming, application logic and user interaction.
+<a href="https://github.com/Aysegul-hub/MusicPlayer">
 
-🔗 **[View My GitHub →](https://github.com/Aysegul-hub)**
+<img src="https://opengraph.githubassets.com/1/Aysegul-hub/MusicPlayer" width="100%"/>
 
----
+</a>
 
-### 📱 Android & Kotlin Projects
+**Java**
 
-I've been exploring **Android Studio and Kotlin** while developing
-mobile applications and experimenting with different user interfaces.
+A Java-based music player project developed
+to practice application logic,
+object-oriented programming and user interaction.
 
-I've worked with:
+<br>
 
-- Android Studio
-- Kotlin
-- Android Emulator
-- UI development
-- Application logic
-- Kotlin Multiplatform
+<a href="https://github.com/Aysegul-hub/MusicPlayer">
+<img src="https://img.shields.io/badge/VIEW%20PROJECT-GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
 
----
+</td>
 
-### ☕ Java Projects
+</tr>
 
-Java is one of the main technologies I've been working with.
+<tr>
 
-Through different projects, I've practiced:
+<td width="50%" align="center">
 
-- Object-Oriented Programming
-- Classes & Objects
-- GUI development
-- Event handling
-- Application logic
-- Problem solving
+### 🖼️ GalleryApp
+
+<a href="https://github.com/Aysegul-hub/GalleryApp">
+
+<img src="https://opengraph.githubassets.com/1/Aysegul-hub/GalleryApp" width="100%"/>
+
+</a>
+
+**Java**
+
+A gallery application project focused on
+GUI development, event handling and
+application structure.
+
+<br>
+
+<a href="https://github.com/Aysegul-hub/GalleryApp">
+<img src="https://img.shields.io/badge/VIEW%20PROJECT-GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+</td>
+
+<td width="50%" align="center">
+
+### 📱 Android & Kotlin
+
+<a href="https://github.com/Aysegul-hub">
+
+<img src="https://opengraph.githubassets.com/1/Aysegul-hub" width="100%"/>
+
+</a>
+
+**Android Studio • Kotlin**
+
+Exploring Android development,
+Kotlin and modern application interfaces.
+
+<br>
+
+<a href="https://github.com/Aysegul-hub">
+<img src="https://img.shields.io/badge/EXPLORE-GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+</td>
+
+</tr>
+</table>
+
+</div>
 
 ---
 
@@ -96,57 +162,66 @@ Through different projects, I've practiced:
 
 <div align="center">
 
-### 💻 Programming Languages
+### 💻 Languages
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Swift](https://img.shields.io/badge/Swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+<img src="https://skillicons.dev/icons?i=java,python,swift,javascript,kotlin" />
 
-### 🌐 Web Development
+### 🌐 Web
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+<img src="https://skillicons.dev/icons?i=html,css" />
 
-### 📱 Development
+### 🔧 Tools & Platforms
 
-![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
-
-### 🔧 Tools
-
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+<img src="https://skillicons.dev/icons?i=androidstudio,idea,vscode,git,github" />
 
 </div>
 
 ---
 
-## 🌱 Currently Learning
+## 📚 What I'm Learning
 
-- ☕ Improving my Java skills
-- 🐍 Developing my Python skills
-- 🌐 Exploring Web Development
-- 📱 Learning Android & Kotlin
-- 🖥️ Exploring Desktop Application Development
-- 🏗️ Learning Software Architecture
-- 🧠 Improving problem solving and coding practices
+<table>
+<tr>
+<td>☕ Java</td>
+<td>🐍 Python</td>
+<td>📱 Kotlin</td>
+</tr>
+<tr>
+<td>🌐 Web Development</td>
+<td>📱 Android Development</td>
+<td>🖥️ Desktop Applications</td>
+</tr>
+</table>
+
+I'm continuously improving my programming skills through
+hands-on projects and experimentation.
 
 ---
 
+## 📊 GitHub Activity
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Aysegul-hub&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" height="170"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aysegul-hub&layout=compact&theme=transparent&hide_border=true" height="170"/>
+
+</div>
+
 ---
 
-## 🎯 My Goal
+## 🎯 My Approach
 
-> **Keep learning. Keep building. Keep improving.**
+<div align="center">
+
+### Learn → Build → Break → Fix → Improve 🚀
+
+</div>
 
 I believe the best way to learn software development is by
-building projects, solving problems, making mistakes,
-and trying again.
+building real projects, solving problems and learning from mistakes.
 
-Every project is another step forward. 🚀
+Every project is an opportunity to learn something new.
 
 ---
 
@@ -154,20 +229,24 @@ Every project is another step forward. 🚀
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-Aysegul--hub-181717?style=for-the-badge&logo=github)](https://github.com/Aysegul-hub)
+<a href="https://github.com/Aysegul-hub">
+<img src="https://img.shields.io/badge/GitHub-Aysegul--hub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ay%C5%9Feg%C3%BCl-delialio%C4%9Flu/)
+<a href="https://www.linkedin.com/in/ay%C5%9Feg%C3%BCl-delialio%C4%9Flu/">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
-[![Email](https://img.shields.io/badge/Email-ayseguldelialioglu20%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ayseguldelialioglu20@gmail.com)
+<a href="mailto:ayseguldelialioglu20@gmail.com">
+<img src="https://img.shields.io/badge/Email-ayseguldelialioglu20%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
 </div>
 
----
+<br>
 
 <div align="center">
 
-### ✨ Thanks for visiting my profile!
-
-⭐ Feel free to explore my repositories and projects.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
 
 </div>
