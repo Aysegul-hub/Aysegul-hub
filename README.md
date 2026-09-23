@@ -39,6 +39,8 @@ I'm currently developing my skills in **Java, Python, Kotlin, Swift,
 HTML, CSS and JavaScript**, while exploring both web, mobile and desktop
 application development.
 
+[🌐 My Website](https://dott.bio/ayseguldelialioglu)
+
 ---
 
 ## 🚀 Featured Projects
